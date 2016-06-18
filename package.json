@@ -1,0 +1,23 @@
+{
+  "name": "node-gulp-sample",
+  "version": "1.0.0",
+  "description": "App gulp sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "connect": "^3.4.1",
+    "consolidate": "^0.14.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.29",
+    "nodemailer": "^2.3.2",
+    "querystring": "^0.2.0",
+    "request": "^2.72.0"
+  }
+}
